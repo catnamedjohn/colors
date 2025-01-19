@@ -1,0 +1,840 @@
+{
+    "neutralAndMinimalistPalettes": {
+        "groupLabel": "Neutral and Minimalist Palettes",
+        "options": [
+            {
+                "name": "White, beige, gray, and black",
+                "colors": [
+                    { "name": "White", "hex": "#FFFFFF", "rgb": "255,255,255" },
+                    { "name": "Beige", "hex": "#F5F5DC", "rgb": "245,245,220" },
+                    { "name": "Gray", "hex": "#808080", "rgb": "128,128,128" },
+                    { "name": "Black", "hex": "#000000", "rgb": "0,0,0" }
+                ]
+            },
+            {
+                "name": "Sand, taupe, ivory, and cream",
+                "colors": [
+                    { "name": "Sand", "hex": "#C2B280", "rgb": "194,178,128" },
+                    { "name": "Taupe", "hex": "#483C32", "rgb": "72,60,50" },
+                    { "name": "Ivory", "hex": "#FFFFF0", "rgb": "255,255,240" },
+                    { "name": "Cream", "hex": "#FFFDD0", "rgb": "255,253,208" }
+                ]
+            },
+            {
+                "name": "Light gray, charcoal, and warm white",
+                "colors": [
+                    { "name": "Light Gray", "hex": "#D3D3D3", "rgb": "211,211,211" },
+                    { "name": "Charcoal", "hex": "#36454F", "rgb": "54,69,79" },
+                    { "name": "Warm White", "hex": "#FFFAF0", "rgb": "255,250,240" }
+                ]
+            },
+            {
+                "name": "Stone, slate, and soft brown",
+                "colors": [
+                    { "name": "Stone", "hex": "#8C8C8C", "rgb": "140,140,140" },
+                    { "name": "Slate", "hex": "#708090", "rgb": "112,128,144" },
+                    { "name": "Soft Brown", "hex": "#A52A2A", "rgb": "165,42,42" }
+                ]
+            }
+        ]
+    },
+    "warmAndCozyPalettes": {
+        "groupLabel": "Warm and Cozy Palettes",
+        "options": [
+            {
+                "name": "Terracotta, burnt orange, mustard yellow, and deep brown",
+                "colors": [
+                    { "name": "Terracotta", "hex": "#E2725B", "rgb": "226,114,91" },
+                    { "name": "Burnt Orange", "hex": "#CC5500", "rgb": "204,85,0" },
+                    { "name": "Mustard Yellow", "hex": "#FFDB58", "rgb": "255,219,88" },
+                    { "name": "Deep Brown", "hex": "#5C4033", "rgb": "92,64,51" }
+                ]
+            },
+            {
+                "name": "Warm beige, rust, copper, and olive green",
+                "colors": [
+                    { "name": "Warm Beige", "hex": "#EEDC82", "rgb": "238,220,130" },
+                    { "name": "Rust", "hex": "#B7410E", "rgb": "183,65,14" },
+                    { "name": "Copper", "hex": "#B87333", "rgb": "184,115,51" },
+                    { "name": "Olive Green", "hex": "#808000", "rgb": "128,128,0" }
+                ]
+            },
+            {
+                "name": "Soft peach, dusty rose, and caramel",
+                "colors": [
+                    { "name": "Soft Peach", "hex": "#FFDAB9", "rgb": "255,218,185" },
+                    { "name": "Dusty Rose", "hex": "#DCAE96", "rgb": "220,174,150" },
+                    { "name": "Caramel", "hex": "#FFA07A", "rgb": "255,160,122" }
+                ]
+            },
+            {
+                "name": "Maroon, cinnamon, and golden amber",
+                "colors": [
+                    { "name": "Maroon", "hex": "#800000", "rgb": "128,0,0" },
+                    { "name": "Cinnamon", "hex": "#D2691E", "rgb": "210,105,30" },
+                    { "name": "Golden Amber", "hex": "#FFBF00", "rgb": "255,191,0" }
+                ]
+            }
+        ]
+    },
+    "coolAndFreshPalettes": {
+        "groupLabel": "Cool and Fresh Palettes",
+        "options": [
+            {
+                "name": "Light blue, aqua, mint green, and white",
+                "colors": [
+                    { "name": "Light Blue", "hex": "#ADD8E6", "rgb": "173,216,230" },
+                    { "name": "Aqua", "hex": "#00FFFF", "rgb": "0,255,255" },
+                    { "name": "Mint Green", "hex": "#98FF98", "rgb": "152,255,152" },
+                    { "name": "White", "hex": "#FFFFFF", "rgb": "255,255,255" }
+                ]
+            },
+            {
+                "name": "Navy, teal, gray, and icy blue",
+                "colors": [
+                    { "name": "Navy", "hex": "#000080", "rgb": "0,0,128" },
+                    { "name": "Teal", "hex": "#008080", "rgb": "0,128,128" },
+                    { "name": "Gray", "hex": "#808080", "rgb": "128,128,128" },
+                    { "name": "Icy Blue", "hex": "#AFEEEE", "rgb": "175,238,238" }
+                ]
+            },
+            {
+                "name": "Sage green, eucalyptus, and soft gray",
+                "colors": [
+                    { "name": "Sage Green", "hex": "#B2AC88", "rgb": "178,172,136" },
+                    { "name": "Eucalyptus", "hex": "#44D7A8", "rgb": "68,215,168" },
+                    { "name": "Soft Gray", "hex": "#D3D3D3", "rgb": "211,211,211" }
+                ]
+            },
+            {
+                "name": "Turquoise, lavender, and cool beige",
+                "colors": [
+                    { "name": "Turquoise", "hex": "#40E0D0", "rgb": "64,224,208" },
+                    { "name": "Lavender", "hex": "#E6E6FA", "rgb": "230,230,250" },
+                    { "name": "Cool Beige", "hex": "#F5F5DC", "rgb": "245,245,220" }
+                ]
+            }
+        ]
+	},
+    "vibrantAndEnergeticPalettes": {
+        "groupLabel": "Vibrant and Energetic Palettes",
+        "options": [
+            {
+                "name": "Bright pink, sunny yellow, and turquoise",
+                "colors": [
+                    { "name": "Bright Pink", "hex": "#FF69B4", "rgb": "255,105,180" },
+                    { "name": "Sunny Yellow", "hex": "#FFD700", "rgb": "255,215,0" },
+                    { "name": "Turquoise", "hex": "#40E0D0", "rgb": "64,224,208" }
+                ]
+            },
+            {
+                "name": "Coral, tangerine, and lime green",
+                "colors": [
+                    { "name": "Coral", "hex": "#FF7F50", "rgb": "255,127,80" },
+                    { "name": "Tangerine", "hex": "#F28500", "rgb": "242,133,0" },
+                    { "name": "Lime Green", "hex": "#32CD32", "rgb": "50,205,50" }
+                ]
+            },
+            {
+                "name": "Electric blue, magenta, and neon yellow",
+                "colors": [
+                    { "name": "Electric Blue", "hex": "#7DF9FF", "rgb": "125,249,255" },
+                    { "name": "Magenta", "hex": "#FF00FF", "rgb": "255,0,255" },
+                    { "name": "Neon Yellow", "hex": "#FFFF00", "rgb": "255,255,0" }
+                ]
+            },
+            {
+                "name": "Red, orange, and vibrant purple",
+                "colors": [
+                    { "name": "Red", "hex": "#FF0000", "rgb": "255,0,0" },
+                    { "name": "Orange", "hex": "#FFA500", "rgb": "255,165,0" },
+                    { "name": "Vibrant Purple", "hex": "#9400D3", "rgb": "148,0,211" }
+                ]
+            }
+        ]
+    },
+    "earthyAndNaturalPalettes": {
+        "groupLabel": "Earthy and Natural Palettes",
+        "options": [
+            {
+                "name": "Forest green, moss, and bark brown",
+                "colors": [
+                    { "name": "Forest Green", "hex": "#228B22", "rgb": "34,139,34" },
+                    { "name": "Moss", "hex": "#8A9A5B", "rgb": "138,154,91" },
+                    { "name": "Bark Brown", "hex": "#5C4033", "rgb": "92,64,51" }
+                ]
+            },
+            {
+                "name": "Olive green, terracotta, and ochre",
+                "colors": [
+                    { "name": "Olive Green", "hex": "#808000", "rgb": "128,128,0" },
+                    { "name": "Terracotta", "hex": "#E2725B", "rgb": "226,114,91" },
+                    { "name": "Ochre", "hex": "#CC7722", "rgb": "204,119,34" }
+                ]
+            },
+            {
+                "name": "Wheat, sand, and earthy red",
+                "colors": [
+                    { "name": "Wheat", "hex": "#F5DEB3", "rgb": "245,222,179" },
+                    { "name": "Sand", "hex": "#C2B280", "rgb": "194,178,128" },
+                    { "name": "Earthy Red", "hex": "#8B0000", "rgb": "139,0,0" }
+                ]
+            },
+            {
+                "name": "Clay, sage, and muted gold",
+                "colors": [
+                    { "name": "Clay", "hex": "#B66A50", "rgb": "182,106,80" },
+                    { "name": "Sage", "hex": "#B2AC88", "rgb": "178,172,136" },
+                    { "name": "Muted Gold", "hex": "#D2B48C", "rgb": "210,180,140" }
+                ]
+            }
+        ]
+    },
+    "elegantAndLuxuriousPalettes": {
+        "groupLabel": "Elegant and Luxurious Palettes",
+        "options": [
+ {
+            "name": "Dusty Rose, Antique Gold, Soft Cream, and Muted Plum",
+            "colors": [
+                { "name": "Dusty Rose", "hex": "#DCAE96", "rgb": "220,174,150" },
+                { "name": "Antique Gold", "hex": "#D4AF37", "rgb": "212,175,55" },
+                { "name": "Soft Cream", "hex": "#FFFDD0", "rgb": "255,253,208" },
+                { "name": "Muted Plum", "hex": "#8E4585", "rgb": "142,69,133" }
+            ]
+        },
+        {
+            "name": "Emerald Green, Champagne, Deep Navy, and Gold",
+            "colors": [
+                { "name": "Emerald Green", "hex": "#50C878", "rgb": "80,200,120" },
+                { "name": "Champagne", "hex": "#F7E7CE", "rgb": "247,231,206" },
+                { "name": "Deep Navy", "hex": "#000080", "rgb": "0,0,128" },
+                { "name": "Gold", "hex": "#FFD700", "rgb": "255,215,0" }
+            ]
+        },
+        {
+            "name": "Midnight Blue, Platinum, Silver, and White",
+            "colors": [
+                { "name": "Midnight Blue", "hex": "#191970", "rgb": "25,25,112" },
+                { "name": "Platinum", "hex": "#E5E4E2", "rgb": "229,228,226" },
+                { "name": "Silver", "hex": "#C0C0C0", "rgb": "192,192,192" },
+                { "name": "White", "hex": "#FFFFFF", "rgb": "255,255,255" }
+            ]
+        },
+        {
+            "name": "Rich Burgundy, Rose Gold, Ivory, and Charcoal Gray",
+            "colors": [
+                { "name": "Rich Burgundy", "hex": "#800020", "rgb": "128,0,32" },
+                { "name": "Rose Gold", "hex": "#B76E79", "rgb": "183,110,121" },
+                { "name": "Ivory", "hex": "#FFFFF0", "rgb": "255,255,240" },
+                { "name": "Charcoal Gray", "hex": "#36454F", "rgb": "54,69,79" }
+            ]
+        },
+{
+            "name": "Crimson Red, Black, Deep Sapphire, and Silver",
+            "colors": [
+                { "name": "Crimson Red", "hex": "#DC143C", "rgb": "220,20,60" },
+                { "name": "Black", "hex": "#000000", "rgb": "0,0,0" },
+                { "name": "Deep Sapphire", "hex": "#082567", "rgb": "8,37,103" },
+                { "name": "Silver", "hex": "#C0C0C0", "rgb": "192,192,192" }
+            ]
+        },
+        {
+            "name": "Soft Lavender, Cream, Silver, and Dusty Pink",
+            "colors": [
+                { "name": "Soft Lavender", "hex": "#E6E6FA", "rgb": "230,230,250" },
+                { "name": "Cream", "hex": "#FFFDD0", "rgb": "255,253,208" },
+                { "name": "Silver", "hex": "#C0C0C0", "rgb": "192,192,192" },
+                { "name": "Dusty Pink", "hex": "#DCAE96", "rgb": "220,174,150" }
+            ]
+        },
+        {
+            "name": "Royal Purple, Pearl White, Black, and Gold",
+            "colors": [
+                { "name": "Royal Purple", "hex": "#7851A9", "rgb": "120,81,169" },
+                { "name": "Pearl White", "hex": "#F8F9F9", "rgb": "248,249,249" },
+                { "name": "Black", "hex": "#000000", "rgb": "0,0,0" },
+                { "name": "Gold", "hex": "#FFD700", "rgb": "255,215,0" }
+            ]
+        },
+        {
+            "name": "Moss Green, Brass, Soft Ivory, and Walnut Brown",
+            "colors": [
+                { "name": "Moss Green", "hex": "#8A9A5B", "rgb": "138,154,91" },
+                { "name": "Brass", "hex": "#B5A642", "rgb": "181,166,66" },
+                { "name": "Soft Ivory", "hex": "#FFFFF0", "rgb": "255,255,240" },
+                { "name": "Walnut Brown", "hex": "#5C4033", "rgb": "92,64,51" }
+            ]
+        },
+{
+            "name": "Teal, Antique Silver, Dusty Mauve, and Charcoal",
+            "colors": [
+                { "name": "Teal", "hex": "#008080", "rgb": "0,128,128" },
+                { "name": "Antique Silver", "hex": "#A9A9A9", "rgb": "169,169,169" },
+                { "name": "Dusty Mauve", "hex": "#B48E91", "rgb": "180,142,145" },
+                { "name": "Charcoal", "hex": "#36454F", "rgb": "54,69,79" }
+            ]
+        },
+        {
+            "name": "Cobalt Blue, Warm Beige, Silver, and Platinum",
+            "colors": [
+                { "name": "Cobalt Blue", "hex": "#0047AB", "rgb": "0,71,171" },
+                { "name": "Warm Beige", "hex": "#EEDC82", "rgb": "238,220,130" },
+                { "name": "Silver", "hex": "#C0C0C0", "rgb": "192,192,192" },
+                { "name": "Platinum", "hex": "#E5E4E2", "rgb": "229,228,226" }
+            ]
+        },
+        {
+            "name": "Opulent Burgundy, Champagne, Rose Gold, and Cream",
+            "colors": [
+                { "name": "Opulent Burgundy", "hex": "#800020", "rgb": "128,0,32" },
+                { "name": "Champagne", "hex": "#F7E7CE", "rgb": "247,231,206" },
+                { "name": "Rose Gold", "hex": "#B76E79", "rgb": "183,110,121" },
+                { "name": "Cream", "hex": "#FFFDD0", "rgb": "255,253,208" }
+            ]
+        },
+        {
+            "name": "Dark Chocolate, Amber, Ivory, and Soft Gray",
+            "colors": [
+                { "name": "Dark Chocolate", "hex": "#3A2A0F", "rgb": "58,42,15" },
+                { "name": "Amber", "hex": "#FFBF00", "rgb": "255,191,0" },
+                { "name": "Ivory", "hex": "#FFFFF0", "rgb": "255,255,240" },
+                { "name": "Soft Gray", "hex": "#D3D3D3", "rgb": "211,211,211" }
+            ]
+        },
+{
+            "name": "Burnt Orange, Gold, Deep Navy, and Soft White",
+            "colors": [
+                { "name": "Burnt Orange", "hex": "#CC5500", "rgb": "204,85,0" },
+                { "name": "Gold", "hex": "#FFD700", "rgb": "255,215,0" },
+                { "name": "Deep Navy", "hex": "#000080", "rgb": "0,0,128" },
+                { "name": "Soft White", "hex": "#FFFAF0", "rgb": "255,250,240" }
+            ]
+        },
+        {
+            "name": "Rust, Deep Plum, Antique Gold, and Soft Beige",
+            "colors": [
+                { "name": "Rust", "hex": "#B7410E", "rgb": "183,65,14" },
+                { "name": "Deep Plum", "hex": "#673147", "rgb": "103,49,71" },
+                { "name": "Antique Gold", "hex": "#D4AF37", "rgb": "212,175,55" },
+                { "name": "Soft Beige", "hex": "#F5F5DC", "rgb": "245,245,220" }
+            ]
+        },
+        {
+            "name": "Midnight Navy, Copper, Dusty Rose, and Ivory",
+            "colors": [
+                { "name": "Midnight Navy", "hex": "#000080", "rgb": "0,0,128" },
+                { "name": "Copper", "hex": "#B87333", "rgb": "184,115,51" },
+                { "name": "Dusty Rose", "hex": "#DCAE96", "rgb": "220,174,150" },
+                { "name": "Ivory", "hex": "#FFFFF0", "rgb": "255,255,240" }
+            ]
+        },
+        {
+            "name": "Blush Pink, Slate Gray, Gold, and Soft Lavender",
+            "colors": [
+                { "name": "Blush Pink", "hex": "#FFB6C1", "rgb": "255,182,193" },
+                { "name": "Slate Gray", "hex": "#708090", "rgb": "112,128,144" },
+                { "name": "Gold", "hex": "#FFD700", "rgb": "255,215,0" },
+                { "name": "Soft Lavender", "hex": "#E6E6FA", "rgb": "230,230,250" }
+            ]
+        },
+{
+            "name": "Emerald Green & Gold",
+            "colors": [
+                { "name": "Emerald Green", "hex": "#50C878", "rgb": "80,200,120" },
+                { "name": "Gold", "hex": "#FFD700", "rgb": "255,215,0" }
+            ]
+        },
+        {
+            "name": "Royal Blue & Silver",
+            "colors": [
+                { "name": "Royal Blue", "hex": "#4169E1", "rgb": "65,105,225" },
+                { "name": "Silver", "hex": "#C0C0C0", "rgb": "192,192,192" }
+            ]
+        },
+        {
+            "name": "Crimson Red & Black",
+            "colors": [
+                { "name": "Crimson Red", "hex": "#DC143C", "rgb": "220,20,60" },
+                { "name": "Black", "hex": "#000000", "rgb": "0,0,0" }
+            ]
+        },
+        {
+            "name": "Champagne & Ivory",
+            "colors": [
+                { "name": "Champagne", "hex": "#F7E7CE", "rgb": "247,231,206" },
+                { "name": "Ivory", "hex": "#FFFFF0", "rgb": "255,255,240" }
+            ]
+        },
+        {
+            "name": "Midnight Blue & Platinum",
+            "colors": [
+                { "name": "Midnight Blue", "hex": "#191970", "rgb": "25,25,112" },
+                { "name": "Platinum", "hex": "#E5E4E2", "rgb": "229,228,226" }
+            ]
+        },
+        {
+            "name": "Deep Burgundy & Rose Gold",
+            "colors": [
+                { "name": "Deep Burgundy", "hex": "#800020", "rgb": "128,0,32" },
+                { "name": "Rose Gold", "hex": "#B76E79", "rgb": "183,110,121" }
+            ]
+        },
+        {
+            "name": "Navy Blue & White",
+            "colors": [
+                { "name": "Navy Blue", "hex": "#000080", "rgb": "0,0,128" },
+                { "name": "White", "hex": "#FFFFFF", "rgb": "255,255,255" }
+            ]
+        },
+        {
+            "name": "Charcoal Gray & Emerald Green",
+            "colors": [
+                { "name": "Charcoal Gray", "hex": "#36454F", "rgb": "54,69,79" },
+                { "name": "Emerald Green", "hex": "#50C878", "rgb": "80,200,120" }
+            ]
+        },
+        {
+            "name": "Ivory & Dusty Pink",
+            "colors": [
+                { "name": "Ivory", "hex": "#FFFFF0", "rgb": "255,255,240" },
+                { "name": "Dusty Pink", "hex": "#DCAE96", "rgb": "220,174,150" }
+            ]
+        },
+        {
+            "name": "Cobalt Blue & Gold",
+            "colors": [
+                { "name": "Cobalt Blue", "hex": "#0047AB", "rgb": "0,71,171" },
+                { "name": "Gold", "hex": "#FFD700", "rgb": "255,215,0" }
+            ]
+        },
+        {
+            "name": "Dark Chocolate & Copper",
+            "colors": [
+                { "name": "Dark Chocolate", "hex": "#3A2A0F", "rgb": "58,42,15" },
+                { "name": "Copper", "hex": "#B87333", "rgb": "184,115,51" }
+            ]
+        },
+        {
+            "name": "Plum & Silver",
+            "colors": [
+                { "name": "Plum", "hex": "#8E4585", "rgb": "142,69,133" },
+                { "name": "Silver", "hex": "#C0C0C0", "rgb": "192,192,192" }
+            ]
+        },
+        {
+            "name": "Rich Teal & Antique Gold",
+            "colors": [
+                { "name": "Rich Teal", "hex": "#008080", "rgb": "0,128,128" },
+                { "name": "Antique Gold", "hex": "#D4AF37", "rgb": "212,175,55" }
+            ]
+        },
+        {
+            "name": "Black & Diamond White",
+            "colors": [
+                { "name": "Black", "hex": "#000000", "rgb": "0,0,0" },
+                { "name": "Diamond White", "hex": "#F0F8FF", "rgb": "240,248,255" }
+            ]
+        },
+        {
+            "name": "Sapphire Blue & Pearl White",
+            "colors": [
+                { "name": "Sapphire Blue", "hex": "#0F52BA", "rgb": "15,82,186" },
+                { "name": "Pearl White", "hex": "#F8F9F9", "rgb": "248,249,249" }
+            ]
+        },
+        {
+            "name": "Moss Green & Brass",
+            "colors": [
+                { "name": "Moss Green", "hex": "#8A9A5B", "rgb": "138,154,91" },
+                { "name": "Brass", "hex": "#B5A642", "rgb": "181,166,66" }
+            ]
+        },
+        {
+            "name": "Onyx Black & Champagne Gold",
+            "colors": [
+                { "name": "Onyx Black", "hex": "#353839", "rgb": "53,56,57" },
+                { "name": "Champagne Gold", "hex": "#C9AE5D", "rgb": "201,174,93" }
+            ]
+        },
+        {
+            "name": "Soft Lavender & Platinum",
+            "colors": [
+                { "name": "Soft Lavender", "hex": "#E6E6FA", "rgb": "230,230,250" },
+                { "name": "Platinum", "hex": "#E5E4E2", "rgb": "229,228,226" }
+            ]
+        },
+        {
+            "name": "Crimson & Platinum Silver",
+            "colors": [
+                { "name": "Crimson", "hex": "#DC143C", "rgb": "220,20,60" },
+                { "name": "Platinum Silver", "hex": "#D1D5D8", "rgb": "209,213,216" }
+            ]
+        },
+        {
+            "name": "Turquoise & Soft Gray",
+            "colors": [
+                { "name": "Turquoise", "hex": "#40E0D0", "rgb": "64,224,208" },
+                { "name": "Soft Gray", "hex": "#D3D3D3", "rgb": "211,211,211" }
+            ]
+        },
+{
+            "name": "Pearl White, Charcoal, Brass, and Sage Green",
+            "colors": [
+                { "name": "Pearl White", "hex": "#F8F9F9", "rgb": "248,249,249" },
+                { "name": "Charcoal", "hex": "#36454F", "rgb": "54,69,79" },
+                { "name": "Brass", "hex": "#B5A642", "rgb": "181,166,66" },
+                { "name": "Sage Green", "hex": "#B2AC88", "rgb": "178,172,136" }
+            ]
+        },
+        {
+            "name": "Black, Deep Forest Green, Gold, and Warm Taupe",
+            "colors": [
+                { "name": "Black", "hex": "#000000", "rgb": "0,0,0" },
+                { "name": "Deep Forest Green", "hex": "#013220", "rgb": "1,50,32" },
+                { "name": "Gold", "hex": "#FFD700", "rgb": "255,215,0" },
+                { "name": "Warm Taupe", "hex": "#483C32", "rgb": "72,60,50" }
+            ]
+        },
+        {
+            "name": "Rich Teal, Silver, Powder Blue, and Soft Ivory",
+            "colors": [
+                { "name": "Rich Teal", "hex": "#008080", "rgb": "0,128,128" },
+                { "name": "Silver", "hex": "#C0C0C0", "rgb": "192,192,192" },
+                { "name": "Powder Blue", "hex": "#B0E0E6", "rgb": "176,224,230" },
+                { "name": "Soft Ivory", "hex": "#FFFFF0", "rgb": "255,255,240" }
+            ]
+        },
+        {
+            "name": "Dusty Blue, Warm Taupe, Rose Gold, and Ivory",
+            "colors": [
+                { "name": "Dusty Blue", "hex": "#6699CC", "rgb": "102,153,204" },
+                { "name": "Warm Taupe", "hex": "#483C32", "rgb": "72,60,50" },
+                { "name": "Rose Gold", "hex": "#B76E79", "rgb": "183,110,121" },
+                { "name": "Ivory", "hex": "#FFFFF0", "rgb": "255,255,240" }
+            ]
+        },
+            {
+                "name": "Black, gold, and deep emerald green",
+                "colors": [
+                    { "name": "Black", "hex": "#000000", "rgb": "0,0,0" },
+                    { "name": "Gold", "hex": "#FFD700", "rgb": "255,215,0" },
+                    { "name": "Deep Emerald Green", "hex": "#006400", "rgb": "0,100,0" }
+                ]
+            },
+            {
+                "name": "Plum, champagne, and soft white",
+                "colors": [
+                    { "name": "Plum", "hex": "#DDA0DD", "rgb": "221,160,221" },
+                    { "name": "Champagne", "hex": "#F7E7CE", "rgb": "247,231,206" },
+                    { "name": "Soft White", "hex": "#FAF0E6", "rgb": "250,240,230" }
+                ]
+            },
+            {
+                "name": "Navy, rose gold, and blush pink",
+                "colors": [
+                    { "name": "Navy", "hex": "#000080", "rgb": "0,0,128" },
+                    { "name": "Rose Gold", "hex": "#B76E79", "rgb": "183,110,121" },
+                    { "name": "Blush Pink", "hex": "#FFB6C1", "rgb": "255,182,193" }
+                ]
+            },
+            {
+                "name": "Silver, graphite, and pearl white",
+                "colors": [
+                    { "name": "Silver", "hex": "#C0C0C0", "rgb": "192,192,192" },
+                    { "name": "Graphite", "hex": "#474A51", "rgb": "71,74,81" },
+                    { "name": "Pearl White", "hex": "#F8F9F9", "rgb": "248,249,249" }
+                ]
+            }
+        ]
+    },
+    "pastelAndSoftPalettes": {
+        "groupLabel": "Pastel and Soft Palettes",
+        "options": [
+            {
+                "name": "Baby pink, sky blue, and lemon yellow",
+                "colors": [
+                    { "name": "Baby Pink", "hex": "#F4C2C2", "rgb": "244,194,194" },
+                    { "name": "Sky Blue", "hex": "#87CEEB", "rgb": "135,206,235" },
+                    { "name": "Lemon Yellow", "hex": "#FFF44F", "rgb": "255,244,79" }
+                ]
+            },
+            {
+                "name": "Lavender, mint green, and soft peach",
+                "colors": [
+                    { "name": "Lavender", "hex": "#E6E6FA", "rgb": "230,230,250" },
+                    { "name": "Mint Green", "hex": "#98FF98", "rgb": "152,255,152" },
+                    { "name": "Soft Peach", "hex": "#FFDAB9", "rgb": "255,218,185" }
+                ]
+            },
+            {
+                "name": "Powder blue, lilac, and buttercream",
+                "colors": [
+                    { "name": "Powder Blue", "hex": "#B0E0E6", "rgb": "176,224,230" },
+                    { "name": "Lilac", "hex": "#C8A2C8", "rgb": "200,162,200" },
+                    { "name": "Buttercream", "hex": "#FFFDD0", "rgb": "255,253,208" }
+                ]
+            },
+            {
+                "name": "Blush pink, seafoam, and light gray",
+                "colors": [
+                    { "name": "Blush Pink", "hex": "#FFB6C1", "rgb": "255,182,193" },
+                    { "name": "Seafoam", "hex": "#93DFB8", "rgb": "147,223,184" },
+                    { "name": "Light Gray", "hex": "#D3D3D3", "rgb": "211,211,211" }
+                ]
+            }
+        ]
+    },
+    "monochromaticPalettes": {
+        "groupLabel": "Monochromatic Palettes",
+        "options": [
+            {
+                "name": "Shades of gray: light gray, medium gray, and charcoal",
+                "colors": [
+                    { "name": "Light Gray", "hex": "#D3D3D3", "rgb": "211,211,211" },
+                    { "name": "Medium Gray", "hex": "#A9A9A9", "rgb": "169,169,169" },
+                    { "name": "Charcoal", "hex": "#36454F", "rgb": "54,69,79" }
+                ]
+            },
+            {
+                "name": "Shades of blue: sky blue, navy, and teal",
+                "colors": [
+                    { "name": "Sky Blue", "hex": "#87CEEB", "rgb": "135,206,235" },
+                    { "name": "Navy", "hex": "#000080", "rgb": "0,0,128" },
+                    { "name": "Teal", "hex": "#008080", "rgb": "0,128,128" }
+                ]
+            },
+            {
+                "name": "Shades of green: mint, olive, and emerald",
+                "colors": [
+                    { "name": "Mint", "hex": "#98FF98", "rgb": "152,255,152" },
+                    { "name": "Olive", "hex": "#808000", "rgb": "128,128,0" },
+                    { "name": "Emerald", "hex": "#50C878", "rgb": "80,200,120" }
+                ]
+            },
+            {
+                "name": "Shades of pink: blush, rose, and magenta",
+                "colors": [
+                    { "name": "Blush", "hex": "#DE5D83", "rgb": "222,93,131" },
+                    { "name": "Rose", "hex": "#FF007F", "rgb": "255,0,127" },
+                    { "name": "Magenta", "hex": "#FF00FF", "rgb": "255,0,255" }
+                ]
+            }
+        ]
+    },
+    "seasonalPalettes": {
+        "groupLabel": "Seasonal Palettes",
+        "options": [
+            {
+                "name": "Spring: Soft green, pastel yellow, and baby pink",
+                "colors": [
+                    { "name": "Soft Green", "hex": "#90EE90", "rgb": "144,238,144" },
+                    { "name": "Pastel Yellow", "hex": "#FFFB80", "rgb": "255,251,128" },
+                    { "name": "Baby Pink", "hex": "#F4C2C2", "rgb": "244,194,194" }
+                ]
+            },
+            {
+                "name": "Summer: Coral, turquoise, and sunny yellow",
+                "colors": [
+                    { "name": "Coral", "hex": "#FF7F50", "rgb": "255,127,80" },
+                    { "name": "Turquoise", "hex": "#40E0D0", "rgb": "64,224,208" },
+                    { "name": "Sunny Yellow", "hex": "#FFD700", "rgb": "255,215,0" }
+                ]
+            },
+            {
+                "name": "Autumn: Burnt orange, mustard, and maroon",
+                "colors": [
+                    { "name": "Burnt Orange", "hex": "#CC5500", "rgb": "204,85,0" },
+                    { "name": "Mustard", "hex": "#FFDB58", "rgb": "255,219,88" },
+                    { "name": "Maroon", "hex": "#800000", "rgb": "128,0,0" }
+                ]
+            },
+            {
+                "name": "Winter: Icy blue, silver, and deep navy",
+                "colors": [
+                    { "name": "Icy Blue", "hex": "#AFEEEE", "rgb": "175,238,238" },
+                    { "name": "Silver", "hex": "#C0C0C0", "rgb": "192,192,192" },
+                    { "name": "Deep Navy", "hex": "#000080", "rgb": "0,0,128" }
+                ]
+            }
+        ]
+    },
+    "modernAndTrendyPalettes": {
+        "groupLabel": "Modern and Trendy Palettes",
+        "options": [
+            {
+                "name": "Muted pink, sage green, and cream",
+                "colors": [
+                    { "name": "Muted Pink", "hex": "#D8BFD8", "rgb": "216,191,216" },
+                    { "name": "Sage Green", "hex": "#B2AC88", "rgb": "178,172,136" },
+                    { "name": "Cream", "hex": "#FFFDD0", "rgb": "255,253,208" }
+                ]
+            },
+            {
+                "name": "Terracotta, dusty blue, and soft gray",
+                "colors": [
+                    { "name": "Terracotta", "hex": "#E2725B", "rgb": "226,114,91" },
+                    { "name": "Dusty Blue", "hex": "#6699CC", "rgb": "102,153,204" },
+                    { "name": "Soft Gray", "hex": "#D3D3D3", "rgb": "211,211,211" }
+                ]
+            },
+            {
+                "name": "Neon pink, lime green, and electric blue",
+                "colors": [
+                    { "name": "Neon Pink", "hex": "#FF6EC7", "rgb": "255,110,199" },
+                    { "name": "Lime Green", "hex": "#32CD32", "rgb": "50,205,50" },
+                    { "name": "Electric Blue", "hex": "#7DF9FF", "rgb": "125,249,255" }
+                ]
+            },
+            {
+                "name": "Black, white, and pops of primary colors",
+                "colors": [
+                    { "name": "Black", "hex": "#000000", "rgb": "0,0,0" },
+                    { "name": "White", "hex": "#FFFFFF", "rgb": "255,255,255" },
+                    { "name": "Primary Red", "hex": "#FF0000", "rgb": "255,0,0" },
+                    { "name": "Primary Blue", "hex": "#0000FF", "rgb": "0,0,255" },
+                    { "name": "Primary Yellow", "hex": "#FFFF00", "rgb": "255,255,0" }
+                ]
+            },
+ {
+            "name": "Emerald Green & Gold",
+            "colors": [
+                { "name": "Emerald Green", "hex": "#50C878", "rgb": "80,200,120" },
+                { "name": "Gold", "hex": "#FFD700", "rgb": "255,215,0" }
+            ]
+        },
+        {
+            "name": "Royal Blue & Silver",
+            "colors": [
+                { "name": "Royal Blue", "hex": "#4169E1", "rgb": "65,105,225" },
+                { "name": "Silver", "hex": "#C0C0C0", "rgb": "192,192,192" }
+            ]
+        },
+        {
+            "name": "Crimson Red & Black",
+            "colors": [
+                { "name": "Crimson Red", "hex": "#DC143C", "rgb": "220,20,60" },
+                { "name": "Black", "hex": "#000000", "rgb": "0,0,0" }
+            ]
+        },
+        {
+            "name": "Champagne & Ivory",
+            "colors": [
+                { "name": "Champagne", "hex": "#F7E7CE", "rgb": "247,231,206" },
+                { "name": "Ivory", "hex": "#FFFFF0", "rgb": "255,255,240" }
+            ]
+        },
+        {
+            "name": "Midnight Blue & Platinum",
+            "colors": [
+                { "name": "Midnight Blue", "hex": "#191970", "rgb": "25,25,112" },
+                { "name": "Platinum", "hex": "#E5E4E2", "rgb": "229,228,226" }
+            ]
+        },
+        {
+            "name": "Deep Burgundy & Rose Gold",
+            "colors": [
+                { "name": "Deep Burgundy", "hex": "#800020", "rgb": "128,0,32" },
+                { "name": "Rose Gold", "hex": "#B76E79", "rgb": "183,110,121" }
+            ]
+        },
+        {
+            "name": "Navy Blue & White",
+            "colors": [
+                { "name": "Navy Blue", "hex": "#000080", "rgb": "0,0,128" },
+                { "name": "White", "hex": "#FFFFFF", "rgb": "255,255,255" }
+            ]
+        },
+        {
+            "name": "Charcoal Gray & Emerald Green",
+            "colors": [
+                { "name": "Charcoal Gray", "hex": "#36454F", "rgb": "54,69,79" },
+                { "name": "Emerald Green", "hex": "#50C878", "rgb": "80,200,120" }
+            ]
+        },
+        {
+            "name": "Ivory & Dusty Pink",
+            "colors": [
+                { "name": "Ivory", "hex": "#FFFFF0", "rgb": "255,255,240" },
+                { "name": "Dusty Pink", "hex": "#DCAE96", "rgb": "220,174,150" }
+            ]
+        },
+        {
+            "name": "Cobalt Blue & Gold",
+            "colors": [
+                { "name": "Cobalt Blue", "hex": "#0047AB", "rgb": "0,71,171" },
+                { "name": "Gold", "hex": "#FFD700", "rgb": "255,215,0" }
+            ]
+        },
+        {
+            "name": "Dark Chocolate & Copper",
+            "colors": [
+                { "name": "Dark Chocolate", "hex": "#3A2A0F", "rgb": "58,42,15" },
+                { "name": "Copper", "hex": "#B87333", "rgb": "184,115,51" }
+            ]
+        },
+        {
+            "name": "Plum & Silver",
+            "colors": [
+                { "name": "Plum", "hex": "#8E4585", "rgb": "142,69,133" },
+                { "name": "Silver", "hex": "#C0C0C0", "rgb": "192,192,192" }
+            ]
+        },
+        {
+            "name": "Rich Teal & Antique Gold",
+            "colors": [
+                { "name": "Rich Teal", "hex": "#008080", "rgb": "0,128,128" },
+                { "name": "Antique Gold", "hex": "#D4AF37", "rgb": "212,175,55" }
+            ]
+        },
+        {
+            "name": "Black & Diamond White",
+            "colors": [
+                { "name": "Black", "hex": "#000000", "rgb": "0,0,0" },
+                { "name": "Diamond White", "hex": "#F0F8FF", "rgb": "240,248,255" }
+            ]
+        },
+        {
+            "name": "Sapphire Blue & Pearl White",
+            "colors": [
+                { "name": "Sapphire Blue", "hex": "#0F52BA", "rgb": "15,82,186" },
+                { "name": "Pearl White", "hex": "#F8F9F9", "rgb": "248,249,249" }
+            ]
+        },
+        {
+            "name": "Moss Green & Brass",
+            "colors": [
+                { "name": "Moss Green", "hex": "#8A9A5B", "rgb": "138,154,91" },
+                { "name": "Brass", "hex": "#B5A642", "rgb": "181,166,66" }
+            ]
+        },
+        {
+            "name": "Onyx Black & Champagne Gold",
+            "colors": [
+                { "name": "Onyx Black", "hex": "#353839", "rgb": "53,56,57" },
+                { "name": "Champagne Gold", "hex": "#C9AE5D", "rgb": "201,174,93" }
+            ]
+        },
+        {
+            "name": "Soft Lavender & Platinum",
+            "colors": [
+                { "name": "Soft Lavender", "hex": "#E6E6FA", "rgb": "230,230,250" },
+                { "name": "Platinum", "hex": "#E5E4E2", "rgb": "229,228,226" }
+            ]
+        },
+        {
+            "name": "Crimson & Platinum Silver",
+            "colors": [
+                { "name": "Crimson", "hex": "#DC143C", "rgb": "220,20,60" },
+                { "name": "Platinum Silver", "hex": "#D1D5D8", "rgb": "209,213,216" }
+            ]
+        },
+        {
+            "name": "Turquoise & Soft Gray",
+            "colors": [
+                { "name": "Turquoise", "hex": "#40E0D0", "rgb": "64,224,208" },
+                { "name": "Soft Gray", "hex": "#D3D3D3", "rgb": "211,211,211" }
+            ]
+        }
+        ]
+    }
+}
